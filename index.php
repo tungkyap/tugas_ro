@@ -10,7 +10,7 @@
 			<tr>
 				<td></td>				
 				<td><input type="submit" value="Masukan"></td>
-			</tr>
+			</tr>			
 		</form>
 	</table>	
 </body>

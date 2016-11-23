@@ -5,3 +5,4 @@
 </head>
 <body>
 <h1>Metode North West Corner</h1>
+<h2>Halo semuaaaa!!!</h2>
